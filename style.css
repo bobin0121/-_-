@@ -1,0 +1,11 @@
+#header{
+  color: aqua;
+}
+
+#wow{
+  padding: 30px;
+  border: 2px solid #FFB000;
+  width: 500px;
+  box-sizing: border-box;
+  background-color: #FFCC66;
+}
